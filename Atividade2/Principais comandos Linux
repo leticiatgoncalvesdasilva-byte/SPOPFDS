@@ -1,0 +1,114 @@
+# Atividade 2 - Principais Comandos Linux
+
+## Guia rápido para iniciantes no Linux
+
+Ao assistir ao vídeo, percebi que o terminal Linux pode parecer complicado no início, mas alguns comandos básicos já permitem realizar diversas tarefas no sistema.
+
+### Comandos que considero mais importantes
+
+### 1. pwd
+Mostra em qual pasta estou trabalhando no momento.
+
+Exemplo:
+
+pwd
+
+### 2. ls
+Lista os arquivos e pastas que existem no diretório atual.
+
+Exemplo:
+
+ls
+
+### 3. cd
+Permite navegar entre as pastas.
+
+Exemplo:
+
+cd Documentos
+
+### 4. mkdir
+Utilizado para criar novas pastas.
+
+Exemplo:
+
+mkdir Projetos
+
+### 5. touch
+Cria um novo arquivo vazio.
+
+Exemplo:
+
+touch atividade.txt
+
+### 6. cp
+Copia arquivos de um local para outro.
+
+Exemplo:
+
+cp atividade.txt backup.txt
+
+### 7. mv
+Move arquivos ou altera seus nomes.
+
+Exemplo:
+
+mv atividade.txt atividade_final.txt
+
+### 8. rm
+Remove arquivos.
+
+Exemplo:
+
+rm atividade.txt
+
+É importante ter cuidado com esse comando, pois o arquivo removido não vai para a lixeira.
+
+### 9. clear
+Limpa a tela do terminal.
+
+Exemplo:
+
+clear
+
+### 10. history
+Mostra os comandos executados anteriormente.
+
+Exemplo:
+
+history
+
+---
+
+## Mapa mental dos comandos
+
+NAVEGAÇÃO
+- pwd
+- ls
+- cd
+
+CRIAÇÃO
+- mkdir
+- touch
+
+MANIPULAÇÃO
+- cp
+- mv
+- rm
+
+UTILIDADES
+- clear
+- history
+
+---
+
+## O que aprendi
+
+O vídeo mostrou que o terminal Linux oferece uma forma rápida e eficiente de interagir com o sistema operacional. Com poucos comandos é possível criar pastas, editar arquivos, navegar pelo sistema e administrar recursos do computador.
+
+Esses comandos são bastante utilizados por profissionais de tecnologia, especialmente em desenvolvimento de software, servidores e segurança da informação.
+
+## Referência
+
+Vídeo: Principais Comandos Linux.
+https://youtu.be/QZ2nyxzZXPY

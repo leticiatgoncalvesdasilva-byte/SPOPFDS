@@ -1,0 +1,72 @@
+
+Nesta atividade foi utilizada a plataforma Learn Git Branching para praticar comandos Git e compreender conceitos relacionados ao controle de versão.
+
+Seção 1 – Introdução ao Git
+
+Exercício: Commit
+
+Comandos utilizados:
+
+git commit
+
+
+Exercício: Branch
+
+Comandos utilizados:
+
+git branch bugFix
+
+
+Exercício: Checkout
+
+Comandos utilizados:
+
+git checkout bugFix
+
+
+Exercício: Merge
+
+Comandos utilizados:
+
+git merge bugFix
+
+
+
+
+Seção 2 – Branching no Git
+
+
+Exercício: Criando Branches
+
+Comandos utilizados:
+
+git branch feature
+git checkout feature
+
+
+Exercício: Merge Avançado
+
+Comandos utilizados:
+
+git checkout main
+git merge feature
+
+
+Exercício: Rebase
+
+Comandos utilizados:
+
+git checkout feature
+git rebase main
+
+
+Principais Comandos Aprendidos
+
+Comando	Função
+git commit	Cria um commit
+git branch	Cria uma branch
+git checkout	Troca de branch
+git merge	Mescla branches
+git rebase	Reorganiza o histórico
+git log	Exibe o histórico
+git reset	Volta para um commit anterior
